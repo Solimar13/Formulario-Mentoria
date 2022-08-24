@@ -167,3 +167,7 @@ footer button:hover {
   background: #ed284f;
 }
 
+input:required {
+  outline: 1px solid rgb(157, 46, 46);
+}
+
